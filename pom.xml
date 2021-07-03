@@ -13,9 +13,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</connection>
-        <developerConnection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</developerConnection>
-        <url>https://github.com/kalaspuffar/VersioningDemo</url>
+        <connection>scm:git:git@github.com:nivitzhaky/test-maven-integration.git</connection>
+        <developerConnection>scm:git:git@github.com:nivitzhaky/test-maven-integration.git</developerConnection>
+        <url>https://github.com/nivitzhaky/test-maven-integration.git</url>
         <tag>1.0</tag>
     </scm>
 
