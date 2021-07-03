@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>test-maven-integration</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
 
     <properties>
@@ -16,7 +16,7 @@
         <connection>scm:git:git@github.com:nivitzhaky/test-maven-integration.git</connection>
         <developerConnection>scm:git:git@github.com:nivitzhaky/test-maven-integration.git</developerConnection>
         <url>https://github.com/nivitzhaky/test-maven-integration.git</url>
-        <tag>1.1</tag>
+        <tag>1.2</tag>
     </scm>
 
     <build>
